@@ -1,0 +1,15 @@
+.card{
+    display: flex;
+    gap: 1rem;
+}
+
+.child{
+    border: 1px solid black;
+    padding: 1rem ;
+    text-align: center;
+    border-radius: 1rem;
+    flex: 1;
+    background-color: black;
+    color: white;
+
+}
